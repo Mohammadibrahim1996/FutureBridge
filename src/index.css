@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#navlink {
+  text-decoration: none;
+  padding: 20px;
+  /* margin-left: 5px; */
+  color: aliceblue;
+}
+#navlink:hover {
+  background-color: crimson;
+}
+.nav-brand {
+  padding: 20px !important;
+}
+.nav-brand:hover {
+  color: crimson !important;
+}
